@@ -1,0 +1,2 @@
+# ConnectART
+ConnectART was originally an idea brought up for a college assignment, in which us students had to apply multiple Software Engineering concepts. The original version had its problems, but it did its job during the course. Now, I want to rebuild it, applying even more knowledge and technologies than originally intended. I want to make it better, make it right. ConnectART will rise.
